@@ -1,3 +1,4 @@
+<p align = "center"><img width="100%" height="450"  src="https://media1.giphy.com/media/kXdo4BgGoFC80/giphy.gif?cid=ecf05e47dbqvfazxu38flpmuuz0cn302r6uukef01o0motgw&ep=v1_gifs_search&rid=giphy.gif&ct=g"/></p>
 
 <h1 align="center">Hi 👋, I'm Shivam Rajput</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -26,8 +27,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambegin&show_icons=true&locale=en&layout=compact" alt="shivambegin" /></p>
+<p align="left"><img width="400" x src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambegin&show_icons=true&locale=en&layout=compact" alt="shivambegin" /></p>
 
-<p>&nbsp;<img width="400"align="center" src="https://github-readme-stats.vercel.app/api?username=shivambegin&show_icons=true&locale=en" alt="shivambegin" /></p>
+<p align="center">&nbsp;<img width="400" src="https://github-readme-stats.vercel.app/api?username=shivambegin&show_icons=true&locale=en" alt="shivambegin" /></p>
 
-<p><img width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivambegin&" alt="shivambegin" /></p>
+<p align="right"><img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=shivambegin&" alt="shivambegin" /></p>
+
