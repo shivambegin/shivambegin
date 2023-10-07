@@ -1,5 +1,4 @@
 <p align = "center"><img width="100%" height="450"  src="https://media1.giphy.com/media/kXdo4BgGoFC80/giphy.gif?cid=ecf05e47dbqvfazxu38flpmuuz0cn302r6uukef01o0motgw&ep=v1_gifs_search&rid=giphy.gif&ct=g"/></p>
-[![An image of @shivambegin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivambegin)](https://holopin.io/@shivambegin)
 <h1 align="center">Hi 👋, I'm Shivam Rajput</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" width="400" src="https://cdnb.artstation.com/p/assets/images/images/054/173/483/original/alec-chou-gif-50.gif?1663915220" alt="coding">
